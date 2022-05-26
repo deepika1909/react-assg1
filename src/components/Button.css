@@ -1,0 +1,16 @@
+.btn {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 10px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+    transition-duration: 0.4s;
+  }
+
+  
+.btn1:hover {
+    color: rgb(1, 1, 59);
+  }
